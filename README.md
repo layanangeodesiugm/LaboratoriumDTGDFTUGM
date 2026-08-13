@@ -1,2 +1,1 @@
-# PeminjamanAlat
-PeminjamanAlat
+# Laboratorium DTGD FT UGM
